@@ -1,9 +1,4 @@
-# Hi there, I'm Solomon!
-:wave: :wave:
-
-
-
-
+# Hi there, I'm Solomon!👋 👋
 ## Welcome to my Github! :ok_hand: 
 
 - :sunglasses:Check out my work: [HERE](https://github.com/Solomonad1234?tab=repositories) :exclamation:
